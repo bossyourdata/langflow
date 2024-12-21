@@ -3,3 +3,4 @@ fastapi
 uvicorn[standard]
 pandas
 numpy
+e2b==1.0.4
